@@ -1,4 +1,5 @@
-![github-header-image (1)](https://github.com/Meroby113/Meroby113/assets/91911696/e8516577-0bf0-4140-bdd4-5e0165416927)
+![github-header-image](https://github.com/Meroby113/Meroby113/assets/91911696/634a3c04-84cd-4610-a6dd-8204dc0355a2)
+
 
 <h3 align="center">Computer Engineering Student</h3>
 <p> Hi, I'm Merve Çoban (also known as Meroby113) a final-year Computer Engineering student at İstanbul Aydın University with a passion for coding. I have immersed myself in both backend and frontend development, and I love working on projects that challenge me and help me grow as a software developer. You can explore my projects here on GitHub, where I've showcased a variety of skills and technologies. I'm always open to feedback and suggestions, so feel free to reach out and share your thoughts. </p>
