@@ -10,7 +10,7 @@ to contact me: <g-emoji class="g-emoji" alias="envelope" fallback-src="https://g
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=meroby113&show_icons=true&locale=en&layout=compact" alt="meroby113" /></p>
 
 <div>
- <h3 align="left">Languages and Freamworks:</h3>
+ <h3 align="left">Languages and Frameworks:</h3>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
