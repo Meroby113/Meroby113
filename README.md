@@ -57,6 +57,5 @@ to contact me: <g-emoji class="g-emoji" alias="envelope" fallback-src="https://g
  <p style="flex: 1; margin: 0;">&nbsp;<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=meroby113&show_icons=true&locale=en" alt="meroby113" /></p>
 </div>
 
-
-
+![Snake animation](https://github.com/Meroby113/Meroby113/blob/output/github-contribution-grid-snake.svg)
 
